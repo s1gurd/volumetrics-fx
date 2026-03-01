@@ -12,7 +12,7 @@ https://gist.github.com/HAliss/f84e3c482ea2ac9664a3048fa734093c
 Start with Scenes/SampleScene.scene
 
 Consists of 2 parts:
-1. Full screen volumetric fog effect with support of 3D fog texture and all light types. It also can animate fog volume texture. See Material "VolumetricRaymarchFogSimple" and FullScreenPassRendererFeature in URP rendereк settings
+1. Full screen volumetric fog effect with support of 3D fog texture and all light types. It also can animate fog volume texture. See Material "VolumetricRaymarchFogSimple" and FullScreenPassRendererFeature in URP renderer settings
 2. Six-way lit particle effect with support for receiving shadows, creating fake volume and some other fancy stuff. Based on RLT & BBF Texture2DArrays. For details see prefabs in VFX/Effects folder and Material "Volumetric6WayLitParticles"
 
 License and legal stuff:
